@@ -1,0 +1,4 @@
+# No Terminal 1
+
+cd biblioteca-desktop-app
+mvn javafx:run
